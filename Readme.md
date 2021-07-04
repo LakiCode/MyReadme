@@ -31,5 +31,5 @@ generate a professional Readme.md file from a user's inputs using the Inquirer p
  My email address is: 
  rfuke@loffacorp.com
 ## App screenshots
-![alt text](images/terminal.jpg "terminal")
+![alt text](images/terminal.JPG "User inputs")
 ![alt text](/images/readme_results.jpg "Generated Readne file")
