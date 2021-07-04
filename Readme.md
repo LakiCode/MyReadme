@@ -4,6 +4,7 @@
  [![Generic badge](https://img.shields.io/badge/License-Apache-blue.svg?style=flat&logo=appveyor)](https://shields.io/)
   ## Description 
  For week 9, task is to create a command-line application that dynamically 
+generate a professional Readme.md file from a user's inputs using the Inquirer package.
   ## Table of Contents
   *  [Installation](#installation)
   *  [Usage](#usage)
@@ -20,7 +21,7 @@
   ## Contribution 
  add someone
   ## Test 
- type in terminal " node index.js"
+ type in terminal "node index.js"
   ## Questions
   ### GitHub 
  link to my GitHub profile 
@@ -29,3 +30,6 @@
  For any additional questions, please contact me over a Email. 
  My email address is: 
  rfuke@loffacorp.com
+## App screenshots
+![alt text](images/terminal.jpg "terminal")
+![alt text](/images/readme_results.jpg "Generated Readne file")
