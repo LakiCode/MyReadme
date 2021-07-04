@@ -1,26 +1,26 @@
 # Title 
-  My Radeame Generator
+  My Readme Generator
   ## Badge 
  [![Generic badge](https://img.shields.io/badge/License-Apache-blue.svg?style=flat&logo=appveyor)](https://shields.io/)
   ## Description 
- For week 9, task is to create
+ For week 9, task is to create a command-line application that dynamically 
   ## Table of Contents
   *  [Installation](#installation)
   *  [Usage](#usage)
   *  [Credits](#credits)
   * [License](#license)
   ## Installation 
- Create a .gitignore file, that include node_modules and .DS_Store, run "npm init" to create JSON file, 
+ Create a .gitignore file, that include node_modules and .DS_Store/
   ## Usage 
- 
+ run "npm init" to setup your JSON file, run "npm install inquirer" to install npm dependencies
   ## Credits 
  Robert Fuke
   ## License 
   https://choosealicense.com/licenses/apache-2.0/
   ## Contribution 
- usage information
+ add someone
   ## Test 
- type node index.js in terminal to run app
+ type in terminal " node index.js"
   ## Questions
   ### GitHub 
  link to my GitHub profile 
