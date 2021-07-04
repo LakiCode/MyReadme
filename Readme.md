@@ -1,28 +1,31 @@
 # Title 
-  Robert
+  My Radeame Generator
   ## Badge 
  [![Generic badge](https://img.shields.io/badge/License-Apache-blue.svg?style=flat&logo=appveyor)](https://shields.io/)
   ## Description 
- a
+ For week 9, task is to create
   ## Table of Contents
   *  [Installation](#installation)
   *  [Usage](#usage)
   *  [Credits](#credits)
   * [License](#license)
   ## Installation 
- a
+ Create a .gitignore file, that include node_modules and .DS_Store, run "npm init" to create JSON file, 
   ## Usage 
- a
+ 
   ## Credits 
- a
+ Robert Fuke
   ## License 
   https://choosealicense.com/licenses/apache-2.0/
   ## Contribution 
- aa
+ usage information
   ## Test 
- a
+ type node index.js in terminal to run app
   ## Questions
-  ## Email address 
- a
-  ## My GitHub Account 
- https://github.com/a
+  ### GitHub 
+ link to my GitHub profile 
+ https://github.com/LakiCode
+  ### Contact 
+ For any additional questions, please contact me over a Email. 
+ My email address is: 
+ rfuke@loffacorp.com

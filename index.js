@@ -34,7 +34,7 @@ const questions = [
       {
         type: 'input',
         name: 'contribution',
-        message: 'Provide some usage information:'
+        message: 'Provide some contribution information:'
       },
       {
         type: 'list',

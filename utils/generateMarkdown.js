@@ -55,8 +55,8 @@ function generateMarkdown(data) {
   ## Contribution \n ${data.contribution}
   ## Test \n ${data.test}
   ## Questions
-  ## Email address \n ${data.email}
-  ## My GitHub Account \n https://github.com/${data.myGitHub}
+  ### GitHub \n link to my GitHub profile \n https://github.com/${data.myGitHub}
+  ### Contact \n For any additional questions, please contact me over a Email. \n My email address is: \n ${data.email}
 `;
 }
 
