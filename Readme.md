@@ -32,4 +32,4 @@ generate a professional Readme.md file from a user's inputs using the Inquirer p
  rfuke@loffacorp.com
 ## App screenshots
 ![alt text](images/terminal.JPG "User inputs")
-![alt text](/images/generate_readme.jpg "Generated Readne file")
+![alt text](/images/generate_readme.JPG "Generated Readne file")
