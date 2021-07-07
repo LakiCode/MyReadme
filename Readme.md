@@ -33,3 +33,4 @@ generate a professional Readme.md file from a user's inputs using the Inquirer p
 ## App screenshots
 ![alt text](images/terminal.JPG "User inputs")
 ![alt text](/images/generate_readme.JPG "Generated Readne file")
+<a href="https://drive.google.com/file/d/1mJwMRflS8mz9ZYLJP05_hK_he0M2pDT0/view" target="_blank">My Readme Gerenrator in action</a>
